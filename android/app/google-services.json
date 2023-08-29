@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402649864588",
+    "project_id": "zihun-chats",
+    "storage_bucket": "zihun-chats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402649864588:android:6c4160760bd42e08861ea9",
+        "android_client_info": {
+          "package_name": "com.example.zihun_chats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402649864588-behntujcpkro36fr52rabfrmspn2oi92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcgLHXaklQdIsYI4qUaDD_kXrYRyLSuJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402649864588-behntujcpkro36fr52rabfrmspn2oi92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
